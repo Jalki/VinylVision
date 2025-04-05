@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922674805975",
+    "project_id": "vinylvision-3d5f8",
+    "storage_bucket": "vinylvision-3d5f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922674805975:android:cfc7476237f6868a1a0492",
+        "android_client_info": {
+          "package_name": "com.example.testapptensorflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9hCXZCcyTubFlhZvWLpRVOuae0ILqIu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922674805975:android:6f7903d461ebaef91a0492",
+        "android_client_info": {
+          "package_name": "com.example.vinylvision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9hCXZCcyTubFlhZvWLpRVOuae0ILqIu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
