@@ -59,4 +59,5 @@ class DefaultFirebaseOptions {
     projectId: 'vinylvision-3d5f8',
     storageBucket: 'vinylvision-3d5f8.firebasestorage.app',
   );
+
 }
