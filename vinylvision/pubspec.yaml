@@ -45,8 +45,6 @@ dependencies:
   #google_ar_core: ^1.0.0  # Official Google ARCore plugin
   vector_math: ^2.1.4            # For 3D math
   audioplayers: ^6.4.0
-  # Twitter Login
-  twitter_login: ^4.1.1
   # Discord OAuth (via HTTP)
   oauth2_client: ^4.1.0
   # Misc
@@ -56,7 +54,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  ar_flutter_plugin_2: ^0.0.3
+  
   #arcore_flutter_plugin: ^0.1.0
   
 
